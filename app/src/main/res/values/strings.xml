@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">addContacts</string>
+
+        <string name="hello_world">Hello world!</string>
+
+        <string name="title_activity_main">Add Contact Demo</string>
+        <string name="hnt_et_name">Display Name</string>
+
+        <string name="str_btn_add">Add Contact</string>
+        <string name="str_btn_contacts">Contacts List</string>
+
+
+</resources>
